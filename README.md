@@ -13,3 +13,11 @@ VocalLens is like Google photos but smarter- it lets you organize photos using v
 3. Install dependencies: `pip install -r requirements.txt`
 4. Run: `python main.py`
 5. Open: `http://localhost:5000`
+
+# Vocal Lens - Setup Instructions
+
+## Quick Start
+
+1. Clone the repository
+2. Install dependencies: `pip install -r requirements.txt`
+3. **Download the image dataset:**
