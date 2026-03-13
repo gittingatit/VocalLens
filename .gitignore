@@ -27,3 +27,11 @@ Thumbs.db
 # Project specific
 static/samples/*.jpg
 *.log
+
+# Ignore all images and sample folders
+static/samples/
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.mp4
