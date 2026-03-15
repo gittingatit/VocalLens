@@ -5,7 +5,7 @@ conn = sqlite3.connect('database.db')
 c = conn.cursor()
 c.execute('DELETE FROM images')
 
-samples_dir = 'static/samples'
+samples_dir = 'static/demo_samples'
 inserted = 0
 
 folder_tags = {
