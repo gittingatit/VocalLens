@@ -35,3 +35,9 @@ static/samples/
 *.png
 *.gif
 *.mp4
+
+# Allow demo samples for deployment
+!static/demo_samples/
+!static/demo_samples/*.jpg
+!static/demo_samples/*.jpeg
+!static/demo_samples/*.png
